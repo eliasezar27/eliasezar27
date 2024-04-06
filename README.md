@@ -50,7 +50,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasezar27&hide=java,html,css&theme=dracula)](https://github.com/eliasezar27/github-readme-stats)
 
-[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasezar27&theme=dracula)](https://github.com/eliasezar27/github-readme-stats)
+[![Ely's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasezar27&theme=dracula)](https://github.com/eliasezar27/github-readme-stats)
 
 
 [twitter]: https://twitter.com/patloeber
