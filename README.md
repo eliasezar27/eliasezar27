@@ -52,17 +52,8 @@
 
 [![Ely's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasezar27&theme=dracula)](https://github.com/eliasezar27/github-readme-stats)
 
-
-[twitter]: https://twitter.com/patloeber
-[youtube]: http://youtube.com/@patloeber
-[website]: https://www.python-engineer.com/
-[pats-website]: https://www.patloeber.com/
-[devto]: https://dev.to/python_engineer
-[instagram]: https://www.instagram.com/patloeber/
-[discord]: https://discord.gg/FHMg9tKFSN
-
 ---
-
+🧑‍💻
 
 [ely-website]: https://www.linkedin.com/in/eliascabo/
 [ely-resume]: https://drive.google.com/file/d/1b1wN8_OjSHsyHi2m4W4YJX4_ToCTGQl8/view
