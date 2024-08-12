@@ -4,7 +4,7 @@
 [<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/gmail/gmail.svg" alt="Gmail" width="30" height="30">][ely-mail]
 
 
-## I'm a Software Developer, Former Data Analyst, and LLM Enthusiast
+## I'm a Fulltime Data Scientist and a part-timne Software Engineer, Former Data Analyst, and LLM Enthusiast
 - <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168918.png" alt="Oracle" width="20" height="20"> Oracle Phillippines Corporation - Associate Consultant (Developer)
   - CCB | C2M | Postman | SOAP UI | Groovy | JQuery | Java | Oracle SQL
 - <img src="https://lh4.googleusercontent.com/proxy/62b9QpqBN4T4t9kUoDy2xpfmEV1ZbyF-DlEwYigYylS1px_swXbKipq34Lv8nMA4o5CBViU3" alt="NCVI" width="20" height="20"> Networld Capital Ventures - Data Analyst
