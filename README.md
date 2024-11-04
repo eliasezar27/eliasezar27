@@ -7,7 +7,7 @@
 ## I'm a full-time Data Scientist and a part-time Software Engineer, Former Data Analyst, and LLM Enthusiast
 - <img src="https://www.menucoster.co.nz/public/images/nz/logo.gif" alt="MenuCoster" width="20" height="20"> Menu Coster New Zealand - ML/Python Engineer
   - PostgreSQL | Python (fastAPI) | MongDB | Pandas | Vanilla PHP | Vanilla JavaScript | Scrapy | BS4 | Ollama
-- <img src="https://framerusercontent.com/images/3xDL1wg1uBwNVIOAD68jBvMZMTQ.png" alt="Automa" width="20" height="20"> Automa Solutions Australia - Senior Software Engineer
+- <img src="https://framerusercontent.com/images/3xDL1wg1uBwNVIOAD68jBvMZMTQ.png" alt="Automa" width="20" height="20"> Part-time Automa Solutions Australia - Senior Software Engineer
   - MySQL | Python (flask) | Google Cloud Run | Pandas | BS4 | OpenAI ChatGPT | LlamaIndex | Recruiterflow API | HubSpot API | AirTable
 - <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168918.png" alt="Oracle" width="20" height="20"> Oracle Phillippines Corporation - Associate Consultant (Developer)
   - CCB | C2M | Postman | SOAP UI | Groovy | JQuery | Java | Oracle SQL
